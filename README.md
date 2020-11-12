@@ -1,9 +1,8 @@
----
-title: "French tranlation of Elrond's Economic Paper 
-authors: "@poussette"
+# French tranlation of Elrond's Economic Paper 
+authors: Elrond France contributors
 date: "11 Novembre 2020"
----
-French speaking tranlation and reviews by
+
+tranlation and reviews by: 
 Clément A. (t.me/Myrayke)
 Michel B. (t.me/Maxtrax75)
 Yan Delcroix (t.me/kryptchioyaya)
